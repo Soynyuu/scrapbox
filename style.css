@@ -1,0 +1,3 @@
+ button#Templates.tool-btn:hover { text-decoration: none }
+ button#Templates.tool-btn::before { position: absolute; content: '\f067'; font: 900 21px/46px 'Font Awesome 5 Free' }
+ button#Templates.tool-btn img { opacity: 0 }
